@@ -1,0 +1,16 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+blockquote {
+    margin-left: 0;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+hr{
+    height: 1px;
+    border-color: blue;
+}
