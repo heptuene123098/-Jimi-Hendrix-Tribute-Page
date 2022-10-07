@@ -16,16 +16,6 @@ blockquote {
   }
 hr{
     height: 2px;
-    background-color: brown;
-    border-color: blue;
-}
-.main{
-    width:80%;
-    background-color: burlywood;
-    margin-left:auto;
-    margin-right:auto;
-    padding:20px;
-    max-width:500px;
 }
 h1,h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
